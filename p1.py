@@ -1,1 +1,1 @@
-print("core-protocol INSERT")
+print("core-protocol UPDATE")
